@@ -6,7 +6,9 @@ Informatin Manager
 _I am interested in data science because because I want to improve my skills in this field_ 
 
 ### Mathematical calculation
-``2+5``
+``2+5``  
+
+
 Here's our logo (hover to see the title text):
 
 Inline-style: 
